@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/m3xy0/my-markdown-parser/static/css/main.39a3abec.css",
-    "main.js": "/m3xy0/my-markdown-parser/static/js/main.8beffaeb.js",
-    "index.html": "/m3xy0/my-markdown-parser/index.html",
-    "main.39a3abec.css.map": "/m3xy0/my-markdown-parser/static/css/main.39a3abec.css.map",
-    "main.8beffaeb.js.map": "/m3xy0/my-markdown-parser/static/js/main.8beffaeb.js.map"
+    "main.css": "/my-markdown-parser/static/css/main.39a3abec.css",
+    "main.js": "/my-markdown-parser/static/js/main.8beffaeb.js",
+    "index.html": "/my-markdown-parser/index.html",
+    "main.39a3abec.css.map": "/my-markdown-parser/static/css/main.39a3abec.css.map",
+    "main.8beffaeb.js.map": "/my-markdown-parser/static/js/main.8beffaeb.js.map"
   },
   "entrypoints": [
     "static/css/main.39a3abec.css",
